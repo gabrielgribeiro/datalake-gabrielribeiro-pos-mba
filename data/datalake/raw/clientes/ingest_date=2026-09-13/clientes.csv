@@ -1,0 +1,201 @@
+cliente_id,nome_cliente,uf,cidade,segmento,data_cadastro
+C00001,Diego Silva,DF,Ceilandia,Corporativo,2023-05-17
+C00002,Eduarda Rocha,RS,Porto Alegre,Varejo,2024-05-14
+C00003,Ana Souza,SP,Sao Paulo,Atacado,2024-10-31
+C00004,Ana Carvalho,GO,Goiania,Governo,2023-03-28
+C00005,Isabela Silva,PE,Recife,Governo,2023-11-28
+C00006,Eduarda Santos,PR,Londrina,Varejo,2022-07-09
+C00007,Diego Costa,BA,Feira de Santana,Corporativo,2022-03-30
+C00008,Olivia Carvalho,ES,Vitoria,Governo,2022-06-11
+C00009,Joao Martins,CE,Juazeiro do Norte,Corporativo,2025-03-28
+C00010,Carla Silva,RS,Pelotas,Atacado,2023-08-16
+C00011,Heitor Souza,RJ,Niteroi,Corporativo,2024-07-17
+C00012,Lucas Oliveira,DF,Taguatinga,Corporativo,2023-03-06
+C00013,Isabela Rocha,DF,Ceilandia,Varejo,2022-12-17
+C00014,Heitor Oliveira,CE,Sobral,Governo,2023-07-07
+C00015,Heitor Martins,DF,Taguatinga,Varejo,2023-04-15
+C00016,Karina Almeida,SP,Campinas,Varejo,2023-03-09
+C00017,Karina Santos,GO,Rio Verde,Governo,2024-03-21
+C00018,Olivia Oliveira,DF,Taguatinga,Atacado,2023-05-21
+C00019,Isabela Rocha,ES,Serra,Governo,2025-04-10
+C00020,Lucas Santos,BA,Salvador,Governo,2022-07-06
+C00021,Diego Oliveira,SP,Santos,Atacado,2024-05-14
+C00022,Carla Almeida,GO,Anapolis,Governo,2024-12-19
+C00023,Ana Martins,PR,Maringa,Varejo,2025-01-04
+C00024,Karina Souza,PR,Londrina,Governo,2022-11-20
+C00025,Ana Rocha,PE,Caruaru,Corporativo,2024-10-22
+C00026,Diego Martins,MG,Uberlandia,Atacado,2022-11-10
+C00027,Felipe Carvalho,SC,Blumenau,Varejo,2023-10-26
+C00028,Ana Souza,PE,Olinda,Corporativo,2023-05-06
+C00029,Heitor Gomes,SP,Sao Paulo,Varejo,2024-09-22
+C00030,Eduarda Oliveira,RJ,Petropolis,Governo,2025-01-30
+C00031,Isabela Carvalho,MG,Juiz de Fora,Governo,2023-03-10
+C00032,Gabriela Rocha,CE,Sobral,Governo,2024-02-04
+C00033,Olivia Souza,PE,Recife,Atacado,2022-05-12
+C00034,Ana Gomes,SC,Blumenau,Atacado,2023-03-28
+C00035,Carla Rocha,SP,Santos,Varejo,2023-04-14
+C00036,Bruno Costa,RJ,Rio de Janeiro,Atacado,2023-07-25
+C00037,Pedro Santos,DF,Ceilandia,Atacado,2025-03-15
+C00038,Pedro Santos,GO,Anapolis,Governo,2023-01-25
+C00039,Diego Martins,RJ,Niteroi,Corporativo,2024-05-17
+C00040,Olivia Rocha,BA,Salvador,Varejo,2022-05-05
+C00041,Karina Souza,BA,Salvador,Atacado,2023-01-25
+C00042,Olivia Oliveira,CE,Sobral,Atacado,2023-07-25
+C00043,Heitor Souza,PE,Olinda,Varejo,2022-04-14
+C00044,Ana Souza,DF,Brasilia,Atacado,2024-04-12
+C00045,Pedro Santos,PE,Olinda,Varejo,2022-12-04
+C00046,Ana Almeida,BA,Feira de Santana,Governo,2023-08-08
+C00047,Pedro Oliveira,BA,Salvador,Corporativo,2023-03-22
+C00048,Bruno Rocha,SP,Campinas,Varejo,2022-04-13
+C00049,Pedro Carvalho,GO,Rio Verde,Atacado,2022-04-27
+C00050,Carla Oliveira,CE,Fortaleza,Varejo,2023-04-27
+C00051,Diego Gomes,BA,Salvador,Varejo,2022-06-17
+C00052,Karina Pereira,BA,Salvador,Corporativo,2023-05-04
+C00053,Mariana Oliveira,PR,Maringa,Corporativo,2024-07-25
+C00054,Carla Silva,SC,Joinville,Varejo,2022-05-31
+C00055,Gabriela Carvalho,CE,Sobral,Atacado,2023-12-16
+C00056,Heitor Costa,RJ,Niteroi,Atacado,2024-06-16
+C00057,Joao Gomes,CE,Juazeiro do Norte,Varejo,2025-02-09
+C00058,Diego Oliveira,PR,Londrina,Varejo,2022-08-08
+C00059,Eduarda Pereira,ES,Vila Velha,Atacado,2023-12-04
+C00060,Isabela Carvalho,RS,Caxias do Sul,Corporativo,2022-04-15
+C00061,Nicolas Pereira,RJ,Rio de Janeiro,Varejo,2023-11-15
+C00062,Isabela Oliveira,MG,Juiz de Fora,Governo,2025-02-03
+C00063,Nicolas Carvalho,ES,Vitoria,Varejo,2022-06-04
+C00064,Eduarda Carvalho,ES,Vitoria,Corporativo,2025-04-07
+C00065,Eduarda Almeida,CE,Fortaleza,Varejo,2023-09-24
+C00066,Bruno Costa,SC,Florianopolis,Atacado,2022-07-30
+C00067,Nicolas Gomes,SC,Blumenau,Atacado,2023-04-30
+C00068,Felipe Almeida,MG,Belo Horizonte,Atacado,2023-11-12
+C00069,Heitor Pereira,BA,Salvador,Varejo,2024-02-23
+C00070,Pedro Santos,SP,Sao Paulo,Governo,2023-12-18
+C00071,Heitor Santos,PR,Curitiba,Atacado,2024-03-27
+C00072,Isabela Souza,SC,Joinville,Corporativo,2024-11-09
+C00073,Karina Silva,BA,Salvador,Corporativo,2023-01-01
+C00074,Isabela Silva,GO,Goiania,Governo,2023-12-09
+C00075,Karina Almeida,ES,Serra,Varejo,2024-02-28
+C00076,Gabriela Pereira,GO,Goiania,Governo,2022-01-04
+C00077,Gabriela Costa,CE,Sobral,Varejo,2023-11-08
+C00078,Karina Martins,GO,Goiania,Corporativo,2024-11-04
+C00079,Nicolas Costa,PR,Londrina,Corporativo,2025-02-09
+C00080,Gabriela Almeida,MG,Juiz de Fora,Governo,2022-12-23
+C00081,Joao Almeida,GO,Rio Verde,Varejo,2023-09-15
+C00082,Gabriela Almeida,PR,Maringa,Corporativo,2024-08-10
+C00083,Olivia Martins,PE,Recife,Governo,2022-12-14
+C00084,Carla Pereira,DF,Ceilandia,Corporativo,2022-07-11
+C00085,Joao Santos,RS,Porto Alegre,Atacado,2022-02-20
+C00086,Heitor Ribeiro,SP,Santos,Varejo,2024-07-21
+C00087,Gabriela Rocha,BA,Ilheus,Governo,2024-10-09
+C00088,Heitor Oliveira,BA,Ilheus,Varejo,2022-08-07
+C00089,Heitor Oliveira,BA,Ilheus,Governo,2022-04-13
+C00090,Heitor Souza,CE,Sobral,Atacado,2024-08-09
+C00091,Karina Ribeiro,DF,Ceilandia,Governo,2025-01-27
+C00092,Felipe Rocha,PE,Olinda,Governo,2023-06-15
+C00093,Isabela Carvalho,RS,Caxias do Sul,Atacado,2023-07-17
+C00094,Carla Rocha,PE,Olinda,Atacado,2023-07-11
+C00095,Karina Carvalho,SC,Florianopolis,Atacado,2022-11-05
+C00096,Mariana Rocha,RS,Porto Alegre,Atacado,2022-05-12
+C00097,Nicolas Costa,BA,Ilheus,Governo,2024-05-01
+C00098,Gabriela Almeida,SP,Campinas,Varejo,2025-03-25
+C00099,Pedro Silva,BA,Feira de Santana,Corporativo,2024-03-09
+C00100,Heitor Ribeiro,BA,Salvador,Corporativo,2024-06-11
+C00101,Ana Almeida,PE,Olinda,Governo,2022-12-05
+C00102,Eduarda Gomes,PE,Caruaru,Varejo,2024-03-17
+C00103,Ana Souza,GO,Rio Verde,Governo,2022-10-05
+C00104,Felipe Silva,PE,Olinda,Governo,2023-11-02
+C00105,Olivia Costa,RS,Caxias do Sul,Governo,2023-07-24
+C00106,Isabela Souza,BA,Feira de Santana,Varejo,2025-01-09
+C00107,Lucas Santos,SP,Santos,Varejo,2022-03-24
+C00108,Heitor Santos,SP,Sao Paulo,Atacado,2023-05-04
+C00109,Pedro Martins,MG,Belo Horizonte,Atacado,2024-08-10
+C00110,Isabela Costa,ES,Vitoria,Varejo,2022-12-02
+C00111,Diego Gomes,PR,Curitiba,Corporativo,2025-03-25
+C00112,Mariana Almeida,DF,Ceilandia,Atacado,2022-06-05
+C00113,Heitor Souza,GO,Rio Verde,Corporativo,2022-09-05
+C00114,Bruno Costa,GO,Rio Verde,Governo,2024-01-29
+C00115,Karina Silva,RJ,Niteroi,Governo,2022-08-05
+C00116,Lucas Martins,BA,Feira de Santana,Atacado,2024-06-10
+C00117,Isabela Gomes,MG,Juiz de Fora,Governo,2024-08-10
+C00118,Isabela Costa,BA,Salvador,Varejo,2023-07-26
+C00119,Heitor Ribeiro,PE,Caruaru,Governo,2023-11-20
+C00120,Pedro Costa,SP,Sao Paulo,Governo,2023-03-11
+C00121,Isabela Costa,SC,Joinville,Corporativo,2025-02-12
+C00122,Gabriela Souza,SP,Sao Paulo,Governo,2024-09-27
+C00123,Heitor Rocha,CE,Sobral,Governo,2024-07-06
+C00124,Carla Pereira,SP,Sao Paulo,Governo,2023-05-14
+C00125,Lucas Ribeiro,PR,Maringa,Corporativo,2024-05-21
+C00126,Karina Costa,ES,Serra,Governo,2023-07-09
+C00127,Isabela Santos,PR,Curitiba,Atacado,2023-10-09
+C00128,Felipe Santos,RJ,Rio de Janeiro,Governo,2023-07-21
+C00129,Joao Souza,ES,Vitoria,Corporativo,2023-04-11
+C00130,Felipe Pereira,SC,Florianopolis,Atacado,2023-07-16
+C00131,Bruno Carvalho,SP,Campinas,Atacado,2024-10-02
+C00132,Ana Gomes,RJ,Niteroi,Governo,2024-09-07
+C00133,Karina Oliveira,PE,Recife,Corporativo,2024-09-05
+C00134,Carla Almeida,RJ,Niteroi,Varejo,2025-03-27
+C00135,Bruno Oliveira,DF,Brasilia,Corporativo,2022-06-24
+C00136,Diego Carvalho,RS,Caxias do Sul,Atacado,2024-12-06
+C00137,Olivia Ribeiro,BA,Feira de Santana,Governo,2023-09-18
+C00138,Bruno Gomes,GO,Rio Verde,Varejo,2023-03-02
+C00139,Gabriela Pereira,DF,Ceilandia,Varejo,2022-11-18
+C00140,Felipe Carvalho,RS,Porto Alegre,Atacado,2022-01-06
+C00141,Olivia Rocha,BA,Ilheus,Governo,2023-08-20
+C00142,Heitor Pereira,SP,Santos,Corporativo,2024-07-18
+C00143,Heitor Pereira,RJ,Petropolis,Atacado,2024-05-20
+C00144,Heitor Martins,RJ,Rio de Janeiro,Corporativo,2022-10-19
+C00145,Bruno Oliveira,RJ,Niteroi,Corporativo,2024-06-18
+C00146,Olivia Rocha,RJ,Niteroi,Governo,2023-07-12
+C00147,Pedro Ribeiro,CE,Fortaleza,Varejo,2024-06-03
+C00148,Karina Gomes,ES,Vila Velha,Varejo,2022-07-07
+C00149,Ana Martins,RS,Caxias do Sul,Varejo,2022-12-25
+C00150,Olivia Pereira,PE,Recife,Governo,2024-10-04
+C00151,Pedro Costa,RJ,Niteroi,Corporativo,2023-10-20
+C00152,Diego Oliveira,DF,Taguatinga,Governo,2024-10-11
+C00153,Mariana Carvalho,PR,Curitiba,Governo,2022-06-30
+C00154,Isabela Costa,SC,Florianopolis,Governo,2024-11-19
+C00155,Olivia Almeida,SP,Sao Paulo,Atacado,2024-11-27
+C00156,Pedro Martins,SC,Joinville,Varejo,2023-02-21
+C00157,Eduarda Pereira,PR,Londrina,Governo,2022-09-06
+C00158,Heitor Rocha,SP,Sao Paulo,Corporativo,2025-02-02
+C00159,Nicolas Souza,SP,Sao Paulo,Varejo,2024-08-03
+C00160,Eduarda Ribeiro,RJ,Petropolis,Corporativo,2024-11-08
+C00161,Isabela Almeida,ES,Vila Velha,Governo,2023-05-15
+C00162,Eduarda Almeida,PE,Recife,Atacado,2022-05-23
+C00163,Nicolas Costa,PR,Maringa,Corporativo,2022-01-06
+C00164,Joao Gomes,PR,Maringa,Governo,2022-11-01
+C00165,Pedro Costa,PE,Olinda,Governo,2024-07-21
+C00166,Gabriela Rocha,SC,Florianopolis,Governo,2023-04-24
+C00167,Bruno Costa,BA,Ilheus,Governo,2024-02-20
+C00168,Eduarda Ribeiro,BA,Salvador,Atacado,2024-10-25
+C00169,Karina Souza,GO,Anapolis,Varejo,2024-12-13
+C00170,Ana Rocha,PE,Recife,Governo,2022-11-13
+C00171,Pedro Pereira,RJ,Niteroi,Governo,2022-06-14
+C00172,Mariana Costa,SC,Blumenau,Governo,2025-01-13
+C00173,Carla Santos,SP,Santos,Corporativo,2023-04-11
+C00174,Carla Almeida,ES,Vitoria,Varejo,2024-06-27
+C00175,Joao Silva,MG,Belo Horizonte,Corporativo,2022-04-25
+C00176,Lucas Costa,PR,Londrina,Atacado,2023-05-16
+C00177,Nicolas Gomes,CE,Juazeiro do Norte,Atacado,2022-12-15
+C00178,Carla Gomes,MG,Uberlandia,Atacado,2024-10-16
+C00179,Eduarda Santos,GO,Anapolis,Corporativo,2024-07-30
+C00180,Ana Ribeiro,PR,Londrina,Atacado,2022-06-01
+C00181,Lucas Gomes,PE,Olinda,Governo,2023-05-28
+C00182,Joao Santos,PE,Olinda,Governo,2022-08-07
+C00183,Mariana Gomes,RS,Caxias do Sul,Corporativo,2023-08-28
+C00184,Mariana Pereira,SP,Sao Paulo,Varejo,2024-10-14
+C00185,Heitor Gomes,PR,Londrina,Atacado,2023-01-25
+C00186,Isabela Martins,GO,Rio Verde,Atacado,2022-07-18
+C00187,Bruno Pereira,DF,Taguatinga,Varejo,2025-04-01
+C00188,Eduarda Souza,SC,Joinville,Corporativo,2024-04-30
+C00189,Gabriela Oliveira,MG,Juiz de Fora,Corporativo,2024-12-23
+C00190,Isabela Oliveira,CE,Sobral,Governo,2023-08-28
+C00191,Karina Souza,ES,Vila Velha,Varejo,2022-10-16
+C00192,Mariana Carvalho,RS,Caxias do Sul,Varejo,2024-03-19
+C00193,Isabela Carvalho,SP,Sao Paulo,Governo,2024-01-25
+C00194,Isabela Gomes,DF,Taguatinga,Corporativo,2022-08-10
+C00195,Heitor Ribeiro,DF,Brasilia,Corporativo,2023-03-30
+C00196,Carla Martins,DF,Taguatinga,Corporativo,2024-04-16
+C00197,Eduarda Silva,RJ,Rio de Janeiro,Corporativo,2024-10-05
+C00198,Diego Santos,RJ,Petropolis,Atacado,2024-03-06
+C00199,Lucas Martins,PE,Caruaru,Governo,2022-11-13
+C00200,Diego Ribeiro,BA,Ilheus,Governo,2023-07-27

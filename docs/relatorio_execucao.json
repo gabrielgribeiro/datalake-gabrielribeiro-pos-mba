@@ -1,0 +1,51 @@
+{
+  "executado_em": "2026-09-13T21:35:02",
+  "destino": "s3",
+  "base_uri": "s3://datalake-gabrielribeiro-pos-mba",
+  "ingest_date": "2026-09-13",
+  "etapa_1_raw": {
+    "clientes": 200,
+    "produtos": 60,
+    "pedidos": 2000,
+    "anomalias_injetadas": {
+      "quantidade_negativa": 56,
+      "quantidade_zero": 59,
+      "cliente_inexistente": 65,
+      "produto_inexistente": 60,
+      "valido": 1760
+    },
+    "destinos": {
+      "clientes": "s3://datalake-gabrielribeiro-pos-mba/raw/clientes/ingest_date=2026-09-13/clientes.csv",
+      "produtos": "s3://datalake-gabrielribeiro-pos-mba/raw/produtos/ingest_date=2026-09-13/produtos.csv",
+      "pedidos": "s3://datalake-gabrielribeiro-pos-mba/raw/pedidos/ingest_date=2026-09-13/pedidos.csv"
+    }
+  },
+  "etapa_2_silver": {
+    "pedidos_raw": 2000,
+    "pedidos_silver": 1760,
+    "pedidos_quarentena": 240,
+    "rejeicoes_por_regra": {
+      "PRODUTO_INEXISTENTE": 60,
+      "QUANTIDADE_INVALIDA": 115,
+      "CLIENTE_INEXISTENTE": 65
+    },
+    "receita_total_silver": 46257832.55,
+    "destinos": {
+      "silver": "s3://datalake-gabrielribeiro-pos-mba/processed/fato_vendas/ingest_date=2026-09-13/fato_vendas.snappy.parquet",
+      "quarentena": "s3://datalake-gabrielribeiro-pos-mba/quarantine/pedidos_rejeitados/data=2026-09-13/rejeitados.json"
+    }
+  },
+  "etapa_3_gold": {
+    "linhas_gold": 72,
+    "receita_total_gold": 46257832.55,
+    "destino": "s3://datalake-gabrielribeiro-pos-mba/gold/agg_vendas_uf_categoria/ingest_date=2026-09-13/agg_vendas_uf_categoria.snappy.parquet"
+  },
+  "etapa_4_auditoria": {
+    "total_raw": 2000,
+    "total_silver": 1760,
+    "total_quarentena": 240,
+    "diferenca": 0,
+    "status": "OK"
+  },
+  "duracao_segundos": 5.45
+}

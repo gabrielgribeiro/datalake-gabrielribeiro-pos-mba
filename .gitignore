@@ -1,0 +1,14 @@
+# credenciais e configuracao local
+.env
+
+# ambiente Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+sql/generated/
